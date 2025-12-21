@@ -1,0 +1,9 @@
+mplsoccer
+soccerdata
+statsbombpy
+pandas
+numpy
+scikit-learn
+xgboost  # optional for advanced
+matplotlib
+seaborn
